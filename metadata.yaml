@@ -1,5 +1,5 @@
 _repo: Waldmuller-Bilder-und-Erlebnisse_63955
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   commentator:
     agent_name: Wolf, Georg Jacob
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '52687'
     url: http://www.gutenberg.org/2009/agents/52687
     wikipedia: https://de.wikipedia.org/wiki/Georg_Jakob_Wolf
+covers:
+- cover_type: archival
+  image_path: 63955-h/images/cover.jpg
 creator:
   author:
     agent_name: Waldmüller, Ferdinand Georg
@@ -24,6 +27,8 @@ creator:
     - https://de.wikipedia.org/wiki/Ferdinand_Georg_Waldm%C3%BCller
     - https://en.wikipedia.org/wiki/Ferdinand_Georg_Waldm%C3%BCller
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63955#Waldmuller-Bilder-und-Erlebnisse
 gutenberg_issued: '2020-12-04'
 gutenberg_type: Text
 identifiers:
