@@ -1,0 +1,41 @@
+_repo: Waldmuller-Bilder-und-Erlebnisse_63955
+_version: 0.0.1
+contributor:
+  commentator:
+    agent_name: Wolf, Georg Jacob
+    alias: Wolf, Georg Jakob
+    birthdate: 1882
+    deathdate: 1952
+    gutenberg_agent_id: '52687'
+    url: http://www.gutenberg.org/2009/agents/52687
+    wikipedia: https://de.wikipedia.org/wiki/Georg_Jakob_Wolf
+creator:
+  author:
+    agent_name: Waldmüller, Ferdinand Georg
+    aliases:
+    - Waldmüller, F. G. (Ferdinand Georg)
+    - Waldmuller, Ferdinand Georg
+    - Waldmüller, Ferdinand George
+    birthdate: 1793
+    deathdate: 1865
+    gutenberg_agent_id: '52686'
+    url: http://www.gutenberg.org/2009/agents/52686
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Ferdinand_Georg_Waldm%C3%BCller
+    - https://en.wikipedia.org/wiki/Ferdinand_Georg_Waldm%C3%BCller
+description: ''
+gutenberg_issued: '2020-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63955'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Waldmüller, Ferdinand Georg, 1793-1865'
+- !lcc 'ND'
+- !lcsh 'Painting, Austrian -- History'
+- GITenberg
+title: 'Waldmüller: Bilder und Erlebnisse'
+url: http://www.gutenberg.org/ebooks/63955
